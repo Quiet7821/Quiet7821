@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quiet7821
-- 👀 I’m interested in minecraft, IO games, music, fine arts, and some creative content creation
+- 👀 I’m interested in minecraft, IO games, music, fine arts, programming, and some creative content creation
 - 🌱 I’m currently learning python, js, html, css
 - 💞️ I’m looking to collaborate on a Discord bot
 
